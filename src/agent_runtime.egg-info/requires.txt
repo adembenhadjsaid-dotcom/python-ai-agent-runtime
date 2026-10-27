@@ -1,0 +1,5 @@
+
+[dev]
+pytest<10,>=8
+pytest-asyncio<2,>=0.24
+ruff<1,>=0.9
